@@ -19,6 +19,6 @@ This is my personal portfolio website, built using Next.js for the front-end, st
 
 Feel free to explore, and don't hesitate to reach out if you have any questions or collaboration opportunities.
 
-🔗 [Visit My Portfolio](https://anantjain-portfolio.vercel.app/)
+🔗 [Visit My Portfolio](https://rifanaldio.github.io/Portofolio/)
 
 📬 Let's Connect and Collaborate! 🚀
